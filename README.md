@@ -1,2 +1,0 @@
-# tBot
-Twitter Bot
