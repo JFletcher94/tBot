@@ -5,4 +5,4 @@ https://github.com/tweepy/tweepy.github.com
 
 
 Thanks to the Gilmore Guys podcast for the inspiration. They can be found at: 
-http://www.gilmoreguysshow.com/
+http://www.gilmoreguysshow.com
