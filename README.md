@@ -1,4 +1,5 @@
 
+Find the twitter bot in action at: http://www.twitter.com/EGilmkreSocial
 
 This software uses tweepy to interact with twitter, which can be found here: 
 https://github.com/tweepy/tweepy.github.com
